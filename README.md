@@ -104,6 +104,7 @@ Image V2 is a practical web platform for AI image generation and editing, design
 * **[Meshy](https://www.meshy.ai/)** - Fast 3D model generation from text or image.
 * **[Tripo](https://www.tripo3d.ai/)** - Generate high-quality 3D models in seconds.
 * **[Luma AI](https://lumalabs.ai/)** - Capture 3D scenes and generate 3D assets.
+* **[Luphra](https://www.luphra.com/)** - Prompt-to-matter: AI text/sketch to editable 3D and physical products.
 
 ---
 
